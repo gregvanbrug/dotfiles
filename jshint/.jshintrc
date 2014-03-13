@@ -13,7 +13,6 @@
   "boss": true,
   "eqnull": true,
   "devel": true,
-  "jquery": true,
   "globals": {
   }
 }
