@@ -3,14 +3,14 @@ dotfiles
 
 My personal configuration files.
 
-/csslint
+## /csslint
 
 Default configuration for [CSSLint](https://github.com/stubbornella/csslint)
 
-/editorconfig
+## /editorconfig
 
 Default configuration for [EditorConfig](http://editorconfig.org)
 
-/jshint
+## /jshint
 
 Default configuration for [JSHint](https://github.com/jshint/jshint/)
