@@ -3,6 +3,12 @@ dotfiles
 
 My personal configuration files.
 
+## /bash
+
+Shell scripts.
+
+phptohtml - compile php to html
+
 ## /csslint
 
 Default configuration for [CSSLint](https://github.com/stubbornella/csslint)
